@@ -143,7 +143,7 @@ Research Areas
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anunandy123&show_icons=true&theme=github_dark)
 
 ---
 
