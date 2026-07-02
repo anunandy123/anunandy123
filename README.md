@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuska Nandy</h1>
-<h3 align="center">Python Developer • Machine Learning Enthusiast • AI Researcher • Backend Developer</h3>
+<h3 align="center">Python Developer • Machine Learning Enthusiast  • Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Machine+Learning+Enthausiast;Python+%7C+Django+%7C+SQL;Building+AI-Powered+Solutions;Always+Learning+Something+New+" />
@@ -11,7 +11,7 @@
 
 🎓 B.Tech Computer Science Student at **Narula Institute of Technology**
 
-💡 Passionate about **Machine Learning, Data Analytics, Computer Vision, Artificial Intelligence, Data Structure and Algorithm and Backend Development**
+💡 Passionate about **Machine Learning, Data Analytics, Artificial Intelligence, Data Structure and Algorithm and Full Stack Development**
 
 🔬 Currently working on **AI-based Human Calorie Estimation using Deep Learning**
 
