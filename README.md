@@ -56,7 +56,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css,js" />
 </p>
 
 ### Backend
