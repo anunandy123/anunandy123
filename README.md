@@ -59,10 +59,16 @@
 <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js" />
 </p>
 
+###F Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,react,fastapi" />
+<img src="https://skillicons.dev/icons?i=js,django,flask,react,fastapi" />
 </p>
 
 ### AI / Data Science
