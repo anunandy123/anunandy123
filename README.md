@@ -117,9 +117,9 @@ Performed forensic analytics and built Tableau dashboards for business insights.
 - Applied problem-solving, software development, and teamwork skills to build innovative solutions under time constraints.
 - Received a **Certificate of Appreciation** from Cognizant for participation.
 
+---
 
-
-Research Areas
+### Research Areas
 
 - Artificial Intelligence
 - Computer Vision
