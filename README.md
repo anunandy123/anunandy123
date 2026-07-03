@@ -119,7 +119,7 @@ Performed forensic analytics and built Tableau dashboards for business insights.
 
 ---
 
-### Research Areas
+# Research Areas
 
 - Artificial Intelligence
 - Computer Vision
