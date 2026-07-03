@@ -59,7 +59,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js" />
 </p>
 
-###F Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css" />
